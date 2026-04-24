@@ -1,1 +1,18 @@
-/.codex
+.codex
+
+# Local build output.
+vocab-audio
+
+# Generated and source audio/PDF artifacts kept locally.
+input/*.mp3
+input/*.pdf
+output/*.mp3
+*.zip
+
+# Scratch folders.
+temporary/
+final/
+
+# OS/editor noise.
+.DS_Store
+*.swp
