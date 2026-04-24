@@ -1,0 +1,20 @@
+ulice
+třída
+náměstí
+roh
+semafor
+zastávka
+stanice
+metro
+autobus
+vlak
+taxi
+auto
+motorka
+kolo
+parkoviště
+benzín
+mapa
+adresa
+zeptat se
+hledat

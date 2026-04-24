@@ -1,0 +1,20 @@
+hotel
+hostel
+penzion
+rezervace
+recepční
+pokoj
+manželská postel
+jednolůžko
+vlastní koupelna
+snídaně v ceně
+přihlášení
+odhlášení
+jízdenka
+letenka
+zavazadlo
+kufr
+batoh
+pas
+vízum
+celnice

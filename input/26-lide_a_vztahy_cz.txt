@@ -1,0 +1,10 @@
+rodina
+rodiče
+matka
+otec
+bratr
+sestra
+syn
+dcera
+přítel
+přítelkyně

@@ -1,0 +1,20 @@
+la ambulancia
+la urgencia
+la operación
+el cirujano
+el análisis de sangre
+la radiografía
+el vendaje
+la escayola
+el termómetro
+la tensión arterial
+el latido
+el corazón
+el pulmón
+el hígado
+el riñón
+la piel
+el hueso
+el músculo
+la vacuna
+la infección

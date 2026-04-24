@@ -1,0 +1,20 @@
+banka
+bankomat
+bankovní účet
+převod
+příjem
+výdaj
+úspora
+půjčka
+hypotéka
+úrok
+kreditní karta
+debetní karta
+zůstatek
+vybrat peníze
+vložit peníze
+směnit měnu
+mince
+bankovka
+účtenka
+faktura

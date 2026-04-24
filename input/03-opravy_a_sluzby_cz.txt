@@ -1,0 +1,20 @@
+instalatér
+elektrikář
+truhlář
+malíř
+zedník
+automechanik
+zámečník
+porucha
+únik
+zásuvka
+žárovka
+kladivo
+hřebík
+šroub
+francouzský klíč
+nářadí
+kabel
+opravit
+spravit
+vyměnit

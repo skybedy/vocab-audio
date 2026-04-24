@@ -1,0 +1,20 @@
+restaurace
+bar
+kavárna
+stůl
+číšník
+jídelní lístek
+menu
+účet
+rezervace
+objednat
+přinést
+zaplatit
+spropitné
+snídaně
+oběd
+večeře
+dezert
+nápoj
+káva
+čaj

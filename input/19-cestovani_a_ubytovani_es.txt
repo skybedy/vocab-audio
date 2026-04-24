@@ -1,0 +1,20 @@
+el hotel
+el hostal
+la pensión
+la reserva
+el recepcionista
+la habitación
+la cama doble
+la cama individual
+el baño privado
+el desayuno incluido
+el check-in
+el check-out
+el pasaje
+el billete de avión
+el equipaje
+la maleta
+la mochila
+el pasaporte
+el visado
+la aduana

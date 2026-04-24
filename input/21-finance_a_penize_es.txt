@@ -1,0 +1,20 @@
+el banco
+el cajero automático
+la cuenta bancaria
+la transferencia
+el ingreso
+el gasto
+el ahorro
+el préstamo
+la hipoteca
+el interés
+la tarjeta de crédito
+la tarjeta de débito
+el saldo
+retirar dinero
+ingresar dinero
+cambiar divisas
+la moneda
+el billete
+el recibo
+la factura

@@ -1,0 +1,20 @@
+el día
+la semana
+el mes
+el año
+el lunes
+el martes
+el miércoles
+el jueves
+el viernes
+el sábado
+el domingo
+la mañana
+la tarde
+la noche
+hoy
+ayer
+mañana
+temprano
+tarde
+ahora

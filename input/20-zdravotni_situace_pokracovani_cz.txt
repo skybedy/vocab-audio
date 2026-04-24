@@ -1,0 +1,20 @@
+sanitka
+pohotovost
+operace
+chirurg
+krevní test
+rentgen
+obvaz
+sádra
+teploměr
+krevní tlak
+tep
+srdce
+plíce
+játra
+ledvina
+kůže
+kost
+sval
+očkování
+infekce

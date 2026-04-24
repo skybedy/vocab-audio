@@ -1,0 +1,20 @@
+la policía
+el guardia
+la denuncia
+el robo
+el ladrón
+la emergencia
+el incendio
+el bombero
+el accidente
+el seguro médico
+el seguro de coche
+la asistencia en carretera
+el número de emergencia
+el peligro
+la salida de emergencia
+el extintor
+la alarma
+proteger
+asegurar
+ayudar

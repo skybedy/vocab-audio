@@ -1,0 +1,20 @@
+el restaurante
+el bar
+la cafetería
+la mesa
+el camarero
+la carta
+el menú
+la cuenta
+la reserva
+pedir
+traer
+pagar
+la propina
+el desayuno
+la comida
+la cena
+el postre
+la bebida
+el café
+el té

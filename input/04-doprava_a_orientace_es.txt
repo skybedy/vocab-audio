@@ -1,0 +1,20 @@
+la calle
+la avenida
+la plaza
+la esquina
+el semáforo
+la parada
+la estación
+el metro
+el autobús
+el tren
+el taxi
+el coche
+la moto
+la bicicleta
+el aparcamiento
+la gasolina
+el mapa
+la dirección
+preguntar
+buscar

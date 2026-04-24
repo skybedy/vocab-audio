@@ -1,0 +1,20 @@
+la tienda online
+el pedido
+el paquete
+la entrega
+el envío
+el repartidor
+la dirección de envío
+el seguimiento
+el pago
+la factura
+devolver
+reembolsar
+la garantía
+el cambio
+la talla
+el número
+el color
+el modelo
+el diseño
+la calidad

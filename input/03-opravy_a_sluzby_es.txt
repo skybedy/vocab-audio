@@ -1,0 +1,20 @@
+el fontanero
+el electricista
+el carpintero
+el pintor
+el albañil
+el mecánico
+el cerrajero
+la avería
+la fuga
+el enchufe
+la bombilla
+el martillo
+el clavo
+el tornillo
+la llave inglesa
+la herramienta
+el cable
+arreglar
+reparar
+cambiar
